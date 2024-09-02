@@ -1,1 +1,1 @@
-# Health Daignosis App
+# Health Diagnosis App
